@@ -66,5 +66,6 @@ pre {
 pre code {
     background: transparent !important;
     padding: 0 !important;
-    font-family: Consolas;
+    font-family: Consolas, monospace;
+    width: inherit;
 }
